@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=New+Rocker&display=swap');
+
+body{
+    background-color: #121212 !important;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.title-font{
+  font-family: "Metal Mania", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+}
+
+.table-header-font{
+	font-family: "Metal Mania", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 28px;
+}
+
+.links-font{
+  font-family: "Metal Mania", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+}
+
+.text-font{
+  font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: #d4d4d4;
+}
+
+.table-size{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.btn{
+	margin-left: 5px;
+}
+
+.btn-purple{
+  background-color: #6200EE;
+  color: #ffffff;
+  font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px !important;
+}
+
+.btn-purple:hover{
+	color: #ffffff !important;
+}
+
+.btn-remove{
+  background-color: #B00020;
+  color: #ffffff;
+  font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px !important;
+}
+
+.btn-remove{
+	color: #ffffff !important;
+}
+
+.bg-novo{
+	background-color: #3d3d3d !important;
+}
